@@ -1,5 +1,7 @@
 # Ubuntu-BBR.Shell
 
+![example](https://ccloud-1255777390.file.myqcloud.com/uploads/2022/01/21/TMS1UOts_kernel5_4.jpg)
+
 使用方法
 ==== 
 保证您的Linux kernel 4.9及以上才能开启TCP BBR拥塞算法
