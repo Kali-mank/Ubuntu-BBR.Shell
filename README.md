@@ -1,12 +1,15 @@
 # Ubuntu-BBR.Shell
 
+#使用方法
 保证您的Linux kernel 4.9及以上才能开启TCP BBR拥塞算法
 BBR 目的是要尽量跑满带宽, 并且尽量不要有排队的情况, 效果并不比速锐差
+可以git之后运行 也可以wget http://mank.ltd/ubuntu-bbr.sh
 
-Linux kernel 4.9+ 已支持 tcp_bbr 下面简单讲述基于KVM架构VPS如何开启
 
-安装Linux kernel 4.9以上的版本
-　、
+
+
+#注意的事项
+内核低于4.9的linux需要更新内核
 
 Debian 8+ / Ubuntu 14.04
 下载最新内核
