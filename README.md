@@ -6,7 +6,7 @@
 ==== 
 保证您的Linux kernel 4.9及以上才能开启TCP BBR拥塞算法
 BBR 目的是要尽量跑满带宽, 并且尽量不要有排队的情况, 效果并不比速锐差
-可以git之后运行 也可以wget http://mank.ltd/ubuntu-bbr.sh
+可以git之后运行 也可以wget https://php.mank.ltd/ubuntu-bbr.sh
 
 
 
